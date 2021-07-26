@@ -16,3 +16,4 @@ attendee2 = Attendee('Nacho', 1)
 
 attendee1.displayAttendee()
 attendee2.displayAttendee()
+attendee1.addTicket()
